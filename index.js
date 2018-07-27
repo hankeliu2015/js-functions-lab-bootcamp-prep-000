@@ -1,11 +1,11 @@
 // write your code below!
 function happyHolidays() {
-  var message = 'Happy Holidays!';
+  var message = 'Happy holidays!';
   return message;
 }
 
 function happyHolidaysTo(name) {
-  let message = `Happy Holidays, ${name}!`;
+  let message = `Happy holidays, ${name}!`;
   return message; 
 }
 
