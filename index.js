@@ -16,4 +16,5 @@ function happyHolidayTo(holiday, name) {
 
 function hlidayCountdown (holiday, days) {
   message = `it\'s $(days) days until ${holiday}!`;
+  return message;
 }
